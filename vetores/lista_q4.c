@@ -20,7 +20,7 @@ int main(){
         printf("%d\n",v[k]);
     }
 
-    // Somatório
+    // Maior elemento PAR
     int j;
     int flag = 0;
     for (j=0; j<TAM; j++){
